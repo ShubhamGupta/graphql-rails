@@ -1,0 +1,3 @@
+query readArticles {
+  Article { id, title, text }
+}
